@@ -1,7 +1,7 @@
 # Ethereum Fraud Account Detection
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/shazzad-hasan/ethereum-fraud-detection/blob/main/ethereum.png" />
+  <img width="600" height="300" src="https://github.com/shazzad-hasan/ethereum-fraud-detection/blob/main/ethereum.png" />
 </p>
 
 The blockchain technology-based cryptocurrency Ether has gained substantial popularity, emerging as the second-largest cryptocurrency by market capitalization after Bitcoin as of 2024. Despite the robust security features offered by the Ethereum platform, the prevalence of illegal activities such as money laundering, bribery, phishing, and Ponzi schemes has risen remarkably in recent years. Moreover, the vast number of deployed smart contracts and the lack of comprehensive analytics tools for these contracts pose challenges in gaining insights from this complex ecosystem. To address these challenges, I developed some machine learning models, utilizing Logistic Regression, Support Vector Machine, Multi-layer Perceptron, Random Forest, Extreme Gradient Boosting, and Light Gradient Boosting, based on transaction history to classify accounts as fraudulent or non-fraudulent. Comparative analysis of these models reveals that tree-based ensemble models, particularly Random Forest, and gradient boosting methods, outperform others in terms of classification accuracy.
