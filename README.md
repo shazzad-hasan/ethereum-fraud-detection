@@ -17,11 +17,9 @@ The blockchain technology-based cryptocurrency Ether has gained substantial popu
 | XGBoost            | 0.9388    | 0.9276 | 0.9400   | 0.9331   | 0.9882  |
 | LightGBM           | 0.9400    | 0.9363 | 0.9443   | 0.9382   | 0.9880  |
 
-## ROC and PR Curves of Different Models
 
 <div align="center">
     <img src="https://github.com/shazzad-hasan/ethereum-fraud-detection/blob/main/results/images/roc_curve.png" alt="ROC Curves" width="45%" />
     <img src="https://github.com/shazzad-hasan/ethereum-fraud-detection/blob/main/results/images/pr_curve.png" alt="PR Curves" width="45%" />
 </div>
 
-**Figure:** ROC and PR curves of different models.
