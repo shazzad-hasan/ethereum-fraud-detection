@@ -1,4 +1,4 @@
-# Ethereum Fraud Account Detection
+# Ethereum Fraudulent Account Detection
 
 ### Motivation
 
