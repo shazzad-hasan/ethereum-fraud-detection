@@ -8,6 +8,8 @@ The blockchain technology-based cryptocurrency Ether has gained substantial popu
 
 ### Performance Comparison of Classification Models
 
+<div align="center">
+
 | Models             | Precision | Recall | Accuracy | F1-score | AUC-ROC |
 |--------------------|-----------|--------|----------|----------|---------|
 | Logistic Regression | 0.8693    | 0.8313 | 0.8674   | 0.8499   | 0.9407  |
